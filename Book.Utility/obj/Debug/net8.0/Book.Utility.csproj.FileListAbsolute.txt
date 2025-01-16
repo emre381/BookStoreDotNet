@@ -1,0 +1,13 @@
+C:\Users\cigo_\source\repos\BookWeb1\Book.Utility\bin\Debug\net8.0\Book.Utility.deps.json
+C:\Users\cigo_\source\repos\BookWeb1\Book.Utility\bin\Debug\net8.0\Book.Utility.dll
+C:\Users\cigo_\source\repos\BookWeb1\Book.Utility\bin\Debug\net8.0\Book.Utility.pdb
+C:\Users\cigo_\source\repos\BookWeb1\Book.Utility\obj\Debug\net8.0\Book.Utility.csproj.AssemblyReference.cache
+C:\Users\cigo_\source\repos\BookWeb1\Book.Utility\obj\Debug\net8.0\Book.Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cigo_\source\repos\BookWeb1\Book.Utility\obj\Debug\net8.0\Book.Utility.AssemblyInfoInputs.cache
+C:\Users\cigo_\source\repos\BookWeb1\Book.Utility\obj\Debug\net8.0\Book.Utility.AssemblyInfo.cs
+C:\Users\cigo_\source\repos\BookWeb1\Book.Utility\obj\Debug\net8.0\Book.Utility.csproj.CoreCompileInputs.cache
+C:\Users\cigo_\source\repos\BookWeb1\Book.Utility\obj\Debug\net8.0\Book.Utility.sourcelink.json
+C:\Users\cigo_\source\repos\BookWeb1\Book.Utility\obj\Debug\net8.0\Book.Utility.dll
+C:\Users\cigo_\source\repos\BookWeb1\Book.Utility\obj\Debug\net8.0\refint\Book.Utility.dll
+C:\Users\cigo_\source\repos\BookWeb1\Book.Utility\obj\Debug\net8.0\Book.Utility.pdb
+C:\Users\cigo_\source\repos\BookWeb1\Book.Utility\obj\Debug\net8.0\ref\Book.Utility.dll

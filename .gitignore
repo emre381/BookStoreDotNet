@@ -1,0 +1,22 @@
+ 
+# Build ve derleme dosyaları
+bin/
+obj/
+*.dll
+*.pdb
+*.nuget.cache
+*.nuget.dgspec.json
+*.nuget.g.props
+*.nuget.g.targets
+*.sourcelink.json
+*.deps.json
+*.cache
+
+# Visual Studio dosyaları
+.vscode/
+*.user
+*.suo
+*.log
+
+# Git ignore edilen dosyaları sıfırla
+!.gitignore
